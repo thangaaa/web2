@@ -1,1 +1,1 @@
-Home Directory: https://<IP>/web2
+Home Directory: https://<Your_IP>/web2
