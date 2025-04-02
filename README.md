@@ -1,2 +1,1 @@
-# web2
-File Upload Vulnerability build on Java Servlet
+Home Directory: https://<IP>/web2
